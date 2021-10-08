@@ -1,2 +1,2 @@
 # Bombtastrophe
-Bombs Galore, mod for tmodloader
+Mod for tmodloader. Bombs Galore!
