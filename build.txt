@@ -1,0 +1,4 @@
+displayName = Bombtastrophe
+author = TRYAGAIN211
+version = 1.0
+modReferences = TRYAGAINLib

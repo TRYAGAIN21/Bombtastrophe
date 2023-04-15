@@ -1,0 +1,44 @@
+Bombtastrophe is a challenge mod that makes the game more challenging (How suprising).
+ 
+The challenge is...
+Bombs will spawn on you every 5 seconds! (Configurible)
+
+There are a lot of settings... and I mean A LOT! This is so that you can change the challenge to your liking!
+So much so that there are countless ways to blow up...
+
+You can make...
+...bombs bounce...
+...bombs fall from the sky...
+...bombs destroy your world...
+...bombs grow from the ground...
+...projectiles explode on death....
+...enemies throw bombs...
+...and so much more...
+
+Have fun!
+
+v1.0 (Yep, straight to 1.0... I felt that it was an update big enough to increase the major version)
+• Ported to 1.4!
+• Added Build-A-Bomb, along with a code keypad for secret
+  stuff...
+  • Use code 1.4RELEASE
+  • 6 secret codes can be found, excluding the one just mentioned
+  • A part of a code has a small chance to appear in a death message when killed by an explosive
+• Completely removed Unavailable Settings
+  • Build-A-Bomb replaces Allow Custom Explosives
+  • Bomb Spawn Rate scales with progression and Deadlier
+    Bombs are rarer when using Random have been moved to the
+    'Misc' category
+  • Allow Extremely Destructive Custom Explosives has been
+    removed but certain Build-A-Bomb codes can get you these
+    types of explosives
+• Bomb Spawn Rate now increases spawn rate when higher
+  instead of lower, due to being changed to a multiplier
+• Added a lot more modifiers
+• Added presets
+
+v0.1.1:
+• Icon!
+
+v0.1:
+• Released!
